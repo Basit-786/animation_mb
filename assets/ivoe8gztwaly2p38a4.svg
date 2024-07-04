@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 3000 3000" style="" xml:space="preserve">
+<style type="text/css">
+				.st0{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_1_);}
+			</style>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="1543.491" y1="1474.8508" x2="2952.8528" y2="659.8721">
+<stop offset="0" style="stop-color:#131217"></stop>
+<stop offset="1" style="stop-color:#292A33"></stop>
+</linearGradient>
+<path class="st0" d="M0,3000h3000V0c0,0-540,0-570.14,0C2071,0,1861.65,130,1500.33,130C1138.55,130,929,0,569.66,0  C539.99,0,0,0,0,0V3000L0,3000z" style=""></path>
+</svg>
